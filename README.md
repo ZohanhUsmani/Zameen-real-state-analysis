@@ -34,5 +34,12 @@ To evaluate property availability and pricing trends to support informed decisio
 - Average price comparison by city and property type
 - Price vs availability relationship (bubble chart)
 
-## Project Structure
 
+
+## 🧪 How to Run the Analysis
+
+1. Clone the repo
+2. Install dependencies:
+
+3. Run the script:
+pip install pandas matplotlib seaborn
